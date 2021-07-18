@@ -1,0 +1,8 @@
+Hello World!
+<<<<<<< HEAD
+Another line added to.
+||||||| a516831
+Another line added.
+=======
+Another line added too.
+>>>>>>> release
